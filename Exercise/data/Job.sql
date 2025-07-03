@@ -1,0 +1,10 @@
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (1, 'Nhân viên lập trình', 800.00, 2000.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (2, 'Trưởng nhóm kỹ thuật', 2000.00, 4000.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (3, 'Stock clert', 1000.00, 2500.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (4, 'Giám đốc nhân sự', 3000.00, 6000.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (5, 'Chuyên viên QA', 1200.00, 3000.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (6, 'Quản lý sản phẩm', 2500.00, 5000.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (7, 'Sales representative', 2800.00, 5200.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (8, 'Kỹ sư hệ thống', 1800.00, 3500.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (9, 'Chuyên gia dữ liệu', 3000.00, 6000.00);
+INSERT INTO mydb.Job (id, title, min_salary, max_salary) VALUES (10, 'Giám đốc dự án', 4000.00, 8000.00);
