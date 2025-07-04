@@ -1,0 +1,10 @@
+INSERT INTO mydb.Regions (id, name) VALUES (1, 'Đông Nam Á');
+INSERT INTO mydb.Regions (id, name) VALUES (2, 'Đông Á');
+INSERT INTO mydb.Regions (id, name) VALUES (3, 'Nam Á');
+INSERT INTO mydb.Regions (id, name) VALUES (4, 'Tây Á');
+INSERT INTO mydb.Regions (id, name) VALUES (5, 'Trung Á');
+INSERT INTO mydb.Regions (id, name) VALUES (6, 'Bắc Á');
+INSERT INTO mydb.Regions (id, name) VALUES (7, 'Nam Âu');
+INSERT INTO mydb.Regions (id, name) VALUES (8, 'Bắc Âu');
+INSERT INTO mydb.Regions (id, name) VALUES (9, 'Trung Âu');
+INSERT INTO mydb.Regions (id, name) VALUES (10, 'Tây Âu');

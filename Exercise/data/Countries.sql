@@ -1,0 +1,10 @@
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (1, 'Việt Nam', 1);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (2, 'Nhật Bản', 2);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (3, 'Hàn Quốc', 2);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (4, 'Thái Lan', 1);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (5, 'Malaysia', 1);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (6, 'Philippines', 1);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (7, 'Ấn Độ', 3);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (8, 'Trung Quốc', 2);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (9, 'Indonesia', 1);
+INSERT INTO mydb.Countries (id, name, region_id) VALUES (10, 'Pakistan', 3);
